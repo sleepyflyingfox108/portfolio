@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.064dc6c1.css",
+    "main.css": "/portfolio/static/css/main.42ff8f05.css",
     "main.js": "/portfolio/static/js/main.f8f8aa0d.js",
     "static/media/Jost-LightItalic.ttf": "/portfolio/static/media/Jost-LightItalic.57eaa1a8d68cfb1cb899.ttf",
     "static/media/Jost-SemiBold.ttf": "/portfolio/static/media/Jost-SemiBold.c884553b974be0f58c33.ttf",
     "static/media/Jost-Light.ttf": "/portfolio/static/media/Jost-Light.3190500f570b2fb9409f.ttf",
     "static/media/Jost-Regular.ttf": "/portfolio/static/media/Jost-Regular.ca33bfb0214ee2e6936a.ttf",
     "index.html": "/portfolio/index.html",
-    "main.064dc6c1.css.map": "/portfolio/static/css/main.064dc6c1.css.map",
+    "main.42ff8f05.css.map": "/portfolio/static/css/main.42ff8f05.css.map",
     "main.f8f8aa0d.js.map": "/portfolio/static/js/main.f8f8aa0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.064dc6c1.css",
+    "static/css/main.42ff8f05.css",
     "static/js/main.f8f8aa0d.js"
   ]
 }
