@@ -1,0 +1,53 @@
+#welcome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20vh 0vh;
+    color: white;
+    background-color: rgb(56, 107, 47);
+}
+
+#gallery h1 {
+    text-align: left;
+    width: 75%;
+    font-size: 2.3em;
+
+}
+
+#projects {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#projects > div {
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    margin: 2vw;
+}
+
+#projects h3 {
+    font-size: 1em;
+}
+
+#projects p {
+    font-size: 0.7em;
+}
+
+#project-0 > div{
+    background-color: rgb(202, 227, 248);
+}
+
+#project-1 > div{
+    background-color: rgb(238, 210, 254);
+}
+
+#project-2 > div{
+    background-color: rgb(254, 239, 210);
+}
+
+#project-3 > div{
+    background-color: rgb(255, 223, 223);
+}
