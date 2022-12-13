@@ -1,0 +1,94 @@
+#iterative-design #intro {
+    /* background-color: #ff961f; */
+    background-color: #FF9F2E;
+}
+
+/* #iterative-design #intro-links {
+    color: rgb(0, 0, 68);
+} */
+
+#iterative-design #background, #hifi-prototype {
+    background-color: #ffd2a0;
+}
+
+#iterative-design #initial-design, #user-testing {
+    background-color: #FFEECE;
+}
+
+.sketch {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #696773;
+    width: 50%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #95939b;
+}
+
+.sketch p {
+    width: 90%;
+    color: white;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 50%;
+}
+
+.row img {
+    filter: brightness(125%)
+}
+
+#iterative-design table, #iterative-design th, #iterative-design td {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2vh;
+}
+
+#iterative-design th {
+    background-color: #ffd2a0;
+}
+
+.col1 {
+    background-color: #fcbaba;
+}
+
+.col2 {
+    background-color: #b0ecb2;
+}
+
+#iterative-design h3 {
+    margin-bottom: 0;
+}
+
+#accordion {
+    width: 60%;
+}
+
+#accordiondetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#accordiondetails p, ol, #accordiondetails ul {
+    width: 90%;
+}
+
+#accordiondetails h3 {
+    margin-bottom: 0;
+}
+
+#user-testing ul, ol {
+    margin: 0;
+}
+
+#iterative-design #conclusion {
+    background-color: #9c5e19;
+    color: white;
+}

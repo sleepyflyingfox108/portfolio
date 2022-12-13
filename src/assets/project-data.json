@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Responsive Redesign",
+    "keywords": "UIUX Design | HTML and CSS",
+    "image": "images/responsive-redesign-thumbnail.png"
+  },
+  {
+    "name": "Development",
+    "keywords": "State Logic | React and JavaScript | HTML and CSS ",
+    "image": "images/development-thumbnail.png"
+  },
+  {
+    "name": "Iterative Design",
+    "keywords": "UIUX Design | Critique | Figma",
+    "image": "images/iterative-design-thumbnail.png"
+  },
+  {
+    "name": "Animated L-Systems",
+    "keywords": "Graphics | Recursive Systems | OpenGL | C++ ",
+    "image": "images/animated-lsystems-thumbnail.png"
+  }
+]
