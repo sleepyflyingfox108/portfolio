@@ -1,0 +1,21 @@
+#projectcard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 2em;
+    /* box-shadow: 0 0 20px rgb(102, 144, 76); */
+    transition: transform .5s ease;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#projectcard:hover {
+    transform:scale(1.05);
+}
+
+img {
+    margin: 1vw;
+    width: 90%;
+}

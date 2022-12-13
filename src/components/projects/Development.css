@@ -1,0 +1,73 @@
+#development #intro {
+    background-color: rgb(146, 67, 192);
+}
+
+/* #development h1 {
+    font-size: 5.7em;
+    margin-bottom: 0;
+} */
+
+#development #background, #planning {
+    background-color: rgb(238, 210, 254);
+}
+
+#development #research, #final-website {
+    background-color: #f5e4ff;
+}
+
+#bakery-thumbnail {
+    width: 25%;
+    border: 2px black solid;
+}
+
+#diagram {
+    width: 50%;
+}
+
+#final-website-image {
+    width: 30%;
+    border: 2px black solid;
+    transition: transform .5s ease;
+}
+
+#final-website-image:hover {
+    transform:scale(1.1);
+}
+
+#final-website a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#development table, #development th, #development td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2vh;
+}
+
+#development table {
+    width: 50%;
+}
+
+.colOne {
+    background-color: rgb(242, 202, 253);
+    width: 20%;
+}
+
+.colTwo {
+    background-color: rgb(254, 248, 255);
+}
+
+.colThree {
+    background-color: rgb(254, 248, 255);
+}
+
+/* #iterative-design th {
+    background-color: #ffd2a0;
+} */
+
+#development #conclusion {
+    color: white;
+    background-color: rgb(73, 6, 111);
+}
